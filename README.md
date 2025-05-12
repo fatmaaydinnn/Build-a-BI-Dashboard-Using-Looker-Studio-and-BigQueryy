@@ -1,5 +1,6 @@
 # Build-a-BI-Dashboard-Using-Looker-Studio-and-BigQueryy
 Data Warehouse Project
+
 1️⃣ Büyük Veri Analizi
 BigQuery, Google Cloud'un güçlü veri ambarı (data warehouse) hizmetidir ve büyük veri setlerini hızlıca işleyebilmemizi sağlar.
 - Verileri saklama ve yönetme → Büyük veri setlerini depolamak için kullanılır.
